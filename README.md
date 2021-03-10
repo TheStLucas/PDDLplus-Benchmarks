@@ -1,1 +1,1 @@
-# PDDL+-Benchmarks
+# PDDL+ Benchmarks
